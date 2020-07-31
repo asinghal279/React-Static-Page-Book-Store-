@@ -1,0 +1,35 @@
+.card{
+    width: 29%;
+}
+.writer{
+    color: red;
+    font-size: 14px;
+}
+.checked{
+    color:#ffe53b;
+}
+.unchecked{
+    color: #ffe53b;
+}
+.button-outline{
+    border-radius: 50px!important;
+    border-color: grey;
+    color:grey;
+    font-size: 12px;
+}
+.button-outline:hover{
+    color: white;
+    background-color: grey;
+}
+.button-full{
+    background-color: #f8882b;
+    border-color: #f8882b;
+    border-radius: 50px;
+    color: white;
+    font-size: 12px;
+}
+.button-full:hover{
+    background-color:white;
+    border-color: #f8882b;
+    color:  #f8882b;
+}

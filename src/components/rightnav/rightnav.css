@@ -1,0 +1,22 @@
+
+.main{
+    width: 21%;
+    background-color: lightgrey;
+}
+.fixed{
+    width: 100%;
+    padding:30px;
+    background-color: white;
+    margin: 1px;
+    border-radius: 2px;
+}
+.fixed p{
+    padding-left: 20px;
+}
+.offer{
+    width:100% !important;
+    margin-top: 40px;
+}
+.offer a{
+    color:#f8882b;
+}

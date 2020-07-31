@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +36,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+/* ====================================================== */
+
+.search-input{
+  border-radius: 50px;
+  width: 500px !important;
+  font-size: 16px;
+}
+.search-input::-webkit-input-placeholder {
+  font-size: 13px;
+  padding-left: 20px;
+}
+.r{  
+  color: white !important;
+  background-color:#59c26f;
+}
+.e{ 
+  color: white !important;
+  background-color:#cc4b83;
+}
+.c{
+  color: white !important;
+  background-color:#8a5acc;
 }

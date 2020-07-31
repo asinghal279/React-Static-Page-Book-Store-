@@ -1,0 +1,13 @@
+.carousel-inner{
+    max-height: 10%;
+}
+.carousel-item img{
+    max-width: 30%;
+}
+.corousel-content{
+    /* display: inline-block; */
+    padding: 0 0 0 30px;
+}
+.corousel-content h1{
+    color: #f8882b;
+}

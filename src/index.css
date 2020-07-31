@@ -1,8 +1,13 @@
+@font-face {
+  font-family: 'montserrat';
+  src: url(./Montserrat-Regular.ttf);
+}
+*{
+  font-family: 'montserrat';
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
